@@ -1,2 +1,2 @@
-# MapExemple
-An exemple of an OpenStreetMap map
+# MapExample
+An example of an OpenStreetMap map
